@@ -44,4 +44,5 @@ Images are divided into **color layers**, where each layer represents a differen
 📫 Contact: a20220256@pucp.edu.pe
 
 ## 📄 License  
-This project is open-source under the MIT License.  
+This project is open-source under the MIT License. See [LICENSE](LICENSE) for more details.
+
