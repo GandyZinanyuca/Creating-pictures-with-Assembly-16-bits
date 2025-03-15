@@ -35,7 +35,9 @@ Images are divided into **color layers**, where each layer represents a differen
 - Organizes colors into **layers**, avoiding complex recalculations.  
 
 ## 📷 Preview  
-![Sample Image](assets/pato.png)  
+![Sample Image](Assets/finalPicture.png)  
+## 📷 Layers  
+![Sample Image](Assets/layers.png)  
 
 ## 👩‍💻 Author  
 ✍️ Created by **Gandy Zinanyuca**  
